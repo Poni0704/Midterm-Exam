@@ -1,0 +1,35 @@
+[
+	{
+		"id": "1",
+		"username": "Poni",
+		"gender": "female",
+		"age": "26",
+		"birth": "840704",
+		"phone": "0912345678",
+		"address": "台北市文山區",
+		"email": "poni@gmail.com",
+		"photo":"user-type-A-04"
+	},
+	{
+		"id": "2",
+		"username": "Emily",
+		"gender": "female",
+		"age": "27",
+		"birth": "830813",
+		"phone": "0987654321",
+		"address": "台北市南港區",
+		"email": "emily@gmail.com",
+		"photo":"user-type-A-03"
+	},
+	{
+		"id": "3",
+		"username": "Yoyo",
+		"gender": "male",
+		"age": "25",
+		"birth": "850429",
+		"phone": "0911222333",
+		"address": "台北市內湖區",
+		"email": "yoyo@gmail.com",
+		"photo":"user-type-A-01"
+	}
+]
